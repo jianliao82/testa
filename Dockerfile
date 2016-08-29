@@ -1,1 +1,1 @@
-FROM python:3-alpine
+FROM index.alauda.cn/mathildedev/rattletrap:dev
