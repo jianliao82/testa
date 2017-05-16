@@ -1,1 +1,1 @@
-FROM index.alauda.cn/mathildedev/rattletrap:dev
+FROM index-int.alauda.cn/claasv1/busybox
